@@ -1,0 +1,9 @@
+SET DEBUG=express_hello_world:* & C:\PA\node_js\npm run devstart 
+
+
+C:\PA\node_js\npm uninstall nodemon
+
+
+C:\PA\node_js\npm install --save-dev nodemon
+
+C:\PA\node_js\npm install express-generator -g
